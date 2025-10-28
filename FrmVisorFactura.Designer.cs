@@ -62,7 +62,7 @@
             // label5
             // 
             label5.Font = new Font("Sitka Banner", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label5.Location = new Point(12, 247);
+            label5.Location = new Point(12, 256);
             label5.Name = "label5";
             label5.Size = new Size(85, 31);
             label5.TabIndex = 9;
@@ -72,7 +72,7 @@
             // label4
             // 
             label4.Font = new Font("Sitka Banner", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(12, 203);
+            label4.Location = new Point(12, 212);
             label4.Name = "label4";
             label4.Size = new Size(85, 31);
             label4.TabIndex = 8;
@@ -82,7 +82,7 @@
             // label3
             // 
             label3.Font = new Font("Sitka Banner", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(12, 157);
+            label3.Location = new Point(12, 166);
             label3.Name = "label3";
             label3.Size = new Size(85, 31);
             label3.TabIndex = 7;
@@ -92,7 +92,7 @@
             // label2
             // 
             label2.Font = new Font("Sitka Banner", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(12, 113);
+            label2.Location = new Point(12, 122);
             label2.Name = "label2";
             label2.Size = new Size(85, 31);
             label2.TabIndex = 6;
@@ -102,7 +102,7 @@
             // label6
             // 
             label6.Font = new Font("Sitka Banner", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(12, 66);
+            label6.Location = new Point(12, 75);
             label6.Name = "label6";
             label6.Size = new Size(85, 31);
             label6.TabIndex = 5;
@@ -112,37 +112,37 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(375, 49);
+            pictureBox1.Location = new Point(319, 32);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(66, 59);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.Size = new Size(122, 111);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 10;
             pictureBox1.TabStop = false;
             // 
             // lblCedula
             // 
-            lblCedula.Location = new Point(123, 71);
+            lblCedula.Location = new Point(123, 80);
             lblCedula.Name = "lblCedula";
             lblCedula.Size = new Size(142, 25);
             lblCedula.TabIndex = 11;
             // 
             // lblDireccion
             // 
-            lblDireccion.Location = new Point(123, 163);
+            lblDireccion.Location = new Point(123, 172);
             lblDireccion.Name = "lblDireccion";
             lblDireccion.Size = new Size(264, 25);
             lblDireccion.TabIndex = 13;
             // 
             // lblTelefono
             // 
-            lblTelefono.Location = new Point(123, 203);
+            lblTelefono.Location = new Point(123, 212);
             lblTelefono.Name = "lblTelefono";
             lblTelefono.Size = new Size(158, 25);
             lblTelefono.TabIndex = 14;
             // 
             // lblMail
             // 
-            lblMail.Location = new Point(123, 247);
+            lblMail.Location = new Point(123, 256);
             lblMail.Name = "lblMail";
             lblMail.Size = new Size(209, 25);
             lblMail.TabIndex = 15;
@@ -152,7 +152,7 @@
             btnSalir.BackColor = Color.Khaki;
             btnSalir.Font = new Font("Sitka Banner", 13.7999992F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnSalir.ForeColor = Color.Navy;
-            btnSalir.Location = new Point(145, 331);
+            btnSalir.Location = new Point(145, 312);
             btnSalir.Name = "btnSalir";
             btnSalir.Size = new Size(136, 41);
             btnSalir.TabIndex = 16;
@@ -162,7 +162,7 @@
             // 
             // lblNombres
             // 
-            lblNombres.Location = new Point(123, 118);
+            lblNombres.Location = new Point(123, 127);
             lblNombres.Name = "lblNombres";
             lblNombres.Size = new Size(241, 25);
             lblNombres.TabIndex = 12;
